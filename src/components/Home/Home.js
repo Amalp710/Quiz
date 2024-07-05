@@ -6,7 +6,7 @@ function Home() {
   return (
     <main>
       <div className='container'>
-        <h3>techflix AI <br/>Quiz App</h3>
+        <h3> <br/>Quiz App</h3>
         <section className='info'>
           {questions.map((question) => {
             return (
